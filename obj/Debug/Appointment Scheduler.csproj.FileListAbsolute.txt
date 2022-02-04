@@ -1,0 +1,10 @@
+C:\Users\hkhan\source\repos\Appointment Scheduler\bin\Debug\Appointment Scheduler.exe.config
+C:\Users\hkhan\source\repos\Appointment Scheduler\bin\Debug\Appointment Scheduler.exe
+C:\Users\hkhan\source\repos\Appointment Scheduler\bin\Debug\Appointment Scheduler.pdb
+C:\Users\hkhan\source\repos\Appointment Scheduler\obj\Debug\Appointment Scheduler.csproj.AssemblyReference.cache
+C:\Users\hkhan\source\repos\Appointment Scheduler\obj\Debug\Appointment_Scheduler.Form1.resources
+C:\Users\hkhan\source\repos\Appointment Scheduler\obj\Debug\Appointment_Scheduler.Properties.Resources.resources
+C:\Users\hkhan\source\repos\Appointment Scheduler\obj\Debug\Appointment Scheduler.csproj.GenerateResource.cache
+C:\Users\hkhan\source\repos\Appointment Scheduler\obj\Debug\Appointment Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\hkhan\source\repos\Appointment Scheduler\obj\Debug\Appointment Scheduler.exe
+C:\Users\hkhan\source\repos\Appointment Scheduler\obj\Debug\Appointment Scheduler.pdb
